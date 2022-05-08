@@ -28,4 +28,4 @@ These queries would provide further insight into whether or not precipitation le
 
 June             |  December
 :-------------------------:|:-------------------------:
-![June](June_Temps.png)  |  ![Dec](Dec_Temps.png)
+![June](June_Rain.png)  |  ![Dec](Dec_Rain.png)
