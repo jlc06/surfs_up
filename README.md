@@ -13,6 +13,19 @@ Three key differences of the temperatures in June and December are as follows:
 - The month of June is at least 73 degrees or hotter 75% of the time, while that threshold decreases to 69 degrees or hotter 75% of the time in December. 25% of the time is can actually get colder than 69 degrees.
 - On average, the month of December is at least 3 degrees colder than the month of June.
 
+June             |  December
+:-------------------------:|:-------------------------:
+![June](June_Temps.png)  |  ![Dec](Dec_Temps.png)
+
 ## Summary
 ### Other Queries
 While these differences may give us pause to have the shop open year-round, the data also shows the average temperature remains above 70 in either June or December. Through this we can infer that on average the coldest temperature on Oahu is 71 degrees, meaning the shop could see business year-round. While this information is promising, here are two other queries we could run to gather more weather data for the months in question:
+
+1. I would run a query checking the precipitation levels for the month of June
+2. I would run a query checking the precipitation levels for the month of December
+
+These queries would provide further insight into whether or not precipitation levels could mix with the temperatures to prevent customers from shopping at our business.
+
+June             |  December
+:-------------------------:|:-------------------------:
+![June](June_Temps.png)  |  ![Dec](Dec_Temps.png)
